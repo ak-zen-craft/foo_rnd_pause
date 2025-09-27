@@ -13,6 +13,10 @@ A simple foobar2000 plugin that inserts random pauses between tracks.
 
 - Adds random pauses between tracks.
 
+## Screenshot
+
+![Plugin Options](docs/options.png)
+
 ## Usage
 
 - Once installed and enabled, the plugin automatically handles track pauses.

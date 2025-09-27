@@ -24,7 +24,7 @@ A simple foobar2000 plugin that inserts random pauses between tracks.
 
 ## License
 
-Specify your license here (e.g., MIT, GPL, etc.).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
